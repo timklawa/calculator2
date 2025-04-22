@@ -1,2 +1,10 @@
-# calculator2
-Repository for my-app
+# Calculator App
+
+This is a simple calculator application built with Vite, React, TypeScript, and Tailwind CSS. 
+
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   
